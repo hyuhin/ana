@@ -1,9 +1,8 @@
-
 /**
  * class Mahasiswa 
  *
- * @author nur anarafikhi
- * @version  0.00
+ * @author (abjal riski)
+ * @version  0.02
  */
 public class Mahasiswa
 {
