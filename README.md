@@ -1,20 +1,20 @@
 # Aplikasi Array
 
-![image](https://github.com/hyuhin/ana/blob/master/Screenshot 1.png)
+![image](https://github.com/hyuhin/ana/blob/master/Screenshot%201.png)
 
-![image](https://github.com/hyuhin/ana/blob/master/Screenshot 2.png)
+![image](https://github.com/hyuhin/ana/blob/master/Screenshot%202.png)
 
-![image](https://github.com/hyuhin/ana/blob/master/Screenshot 3.png)
+![image](https://github.com/hyuhin/ana/blob/master/Screenshot%203.png)
 
-![image](https://github.com/hyuhin/ana/blob/master/Screenshot 4.png)
+![image](https://github.com/hyuhin/ana/blob/master/Screenshot%204.png)
 
 Hasil Comparator
 
-![image](https://github.com/hyuhin/ana/blob/master/Screenshot 5.png)
+![image](https://github.com/hyuhin/ana/blob/master/Screenshot%205.png)
 
-![image](https://github.com/hyuhin/ana/blob/master/Screenshot 6.png)
+![image](https://github.com/hyuhin/ana/blob/master/Screenshot%206.png)
 
-![image](https://github.com/hyuhin/ana/blob/master/Screenshot 7.png)
+![image](https://github.com/hyuhin/ana/blob/master/Screenshot%207.png)
 
 
 
