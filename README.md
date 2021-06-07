@@ -16,6 +16,10 @@ Hasil Comparator
 
 ![image](https://github.com/hyuhin/ana/blob/master/Screenshot%207.png)
 
+Kalkulator Sederhana
+
+![image](https://github.com/hyuhin/ana/blob/master/Screenshot%208.png)
+
 
 
 
